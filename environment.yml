@@ -1,0 +1,8 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - matplotlib=*
+  - modin=*
+  - scipy=*
+  - snowflake-snowpark-python=*
